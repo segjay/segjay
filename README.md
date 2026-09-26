@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jay Paliwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=segvjay" alt="segvjay" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=segvjay" alt="segjay" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lowkeey_jay" target="blank"><img src="https://img.shields.io/twitter/follow/segvjay?logo=twitter&style=for-the-badge" alt="segvjay" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lowkeey_jay" target="blank"><img src="https://img.shields.io/twitter/follow/segvjay?logo=twitter&style=for-the-badge" alt="segjay" /></a> </p>
 
 - 🔭 I’m currently working on a personal project **UrbanCart**
 
